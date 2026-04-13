@@ -4,7 +4,7 @@ ACC102 Mini Assignment – Profitability comparison between Coca-Cola and PepsiC
 ## 1. Problem & User
 This project compares the profitability of Coca-Cola and PepsiCo to identify which company performs better. 
 The target users are investors and financial analysts.
-## 2. Data (source + access date + key fields) 
+## 2. Data 
 The dataset is obtained from WRDS and includes financial data from 2015 to 2025. 
 Key fields include net income, total assets, shareholders’ equity, sales, and operating income. 
 The data were accessed in April 2026.
