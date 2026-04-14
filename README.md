@@ -20,7 +20,7 @@ Line charts are used for visualization.
 Download the dataset and place it in the same folder as the notebook. 
 Run all cells in the notebook to reproduce the results.
 ## 6. Product link / Demo 
-- GitHub Repository: 
+- GitHub Repository: https://github.com/YUESU24/ACC102-MiniAssignment-CocaCola-vs-PepsiCo
 - Demo Video: 
 ## 7. Limitations & next steps
 This analysis is limited to a small set of financial indicators. 
