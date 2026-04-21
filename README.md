@@ -21,7 +21,7 @@ Download the dataset and place it in the same folder as the notebook.
 Run all cells in the notebook to reproduce the results.
 ## 6. Product link / Demo 
 - GitHub Repository: https://github.com/YUESU24/ACC102-MiniAssignment-CocaCola-vs-PepsiCo
-- Demo Video: 
+- Demo Video: https://youtu.be/KnvwAfsWEwg?feature=shared 
 ## 7. Limitations & next steps
 This analysis is limited to a small set of financial indicators. 
 Future work could include more companies, additional ratios, or external factors such as market conditions.
