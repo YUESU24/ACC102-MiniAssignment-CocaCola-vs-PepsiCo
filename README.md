@@ -21,7 +21,7 @@ Download the dataset and place it in the same folder as the notebook.
 Run all cells in the notebook to reproduce the results.
 ## 6. Product link / Demo 
 - GitHub Repository: https://github.com/YUESU24/ACC102-MiniAssignment-CocaCola-vs-PepsiCo
-- Demo Video: https://youtu.be/KnvwAfsWEwg?feature=shared 
+- Demo Video: https://youtu.be/TuTTjPgl-Aw?si=xk6tBM0vcRmHJjXP
 ## 7. Limitations & next steps
 This analysis has several limitations. First, it only examines four financial ratios and ignores external factors like market conditions and firm-specific events that may affect performance. Second, it only involves basic calculations and visualizations, without statistical tests, regression, or forecasting models. Third, it focuses on historical trends but does not explain the underlying reasons for performance.
 
