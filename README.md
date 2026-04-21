@@ -23,5 +23,5 @@ Run all cells in the notebook to reproduce the results.
 - GitHub Repository: https://github.com/YUESU24/ACC102-MiniAssignment-CocaCola-vs-PepsiCo
 - Demo Video: https://youtu.be/KnvwAfsWEwg?feature=shared 
 ## 7. Limitations & next steps
-This analysis is limited to a small set of financial indicators. 
-Future work could include more companies, additional ratios, or external factors such as market conditions.
+This analysis has several limitations. First, it only examines four financial ratios and ignores external factors like market conditions and firm-specific events that may affect performance. Second, it only involves basic calculations and visualizations, without statistical tests, regression, or forecasting models. Third, it focuses on historical trends but does not explain the underlying reasons for performance.
+To improve this work, external factors such as macroeconomic and industry trends could be incorporated for a more comprehensive analysis. Advanced methods like regression or forecasting models could be added to improve accuracy. Further investigation into the drivers of financial performance would also strengthen analytical depth.
